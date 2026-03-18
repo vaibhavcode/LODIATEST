@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = "MTQ4MjgxODQyODY0NDM2MDM1Mw.GlrxLI.p0ZcfXRW92tpz-SxQfoACv8cIiTKtm41nFQg"+"5g"
 intents = discord.Intents.default()
 intents.message_content = True
 
